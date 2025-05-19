@@ -11,19 +11,19 @@
       <h1>복음 이야기</h1>
       <div class="comic-grid">
         <div class="scene">
-          <img src="images/fall.jpg" alt="인간의 타락" />
+          <img src="fall.jpg" alt="인간의 타락" />
           <p>인간의 타락</p>
         </div>
         <div class="scene">
-          <img src="images/journey.jpg" alt="나그네 인생길" />
+          <img src="journey.jpg" alt="나그네 인생길" />
           <p>나그네 인생길</p>
         </div>
         <div class="scene">
-          <img src="images/salvation.jpg" alt="구원의 성취" />
+          <img src="salvation.jpg" alt="구원의 성취" />
           <p>구원의 성취</p>
         </div>
         <div class="scene">
-          <img src="images/heaven.jpg" alt="천국 입성" />
+          <img src="heaven.jpg" alt="천국 입성" />
           <p>천국 입성</p>
         </div>
       </div>
